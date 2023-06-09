@@ -47,10 +47,10 @@ margin-top:35px;
 
 .feature-box-02 {
     margin: 17px 0;}
-.testimonial4_slide {width:90%;}
+.testimonial4_slide {width:80%!important;}
 .testimonial4_slide p {
 
-    font-size: 15px;}
+    font-size: 15px!important;}
 .contact-name {
     margin-top: 20px;
 }
