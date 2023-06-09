@@ -1803,3 +1803,8 @@ main {
 .baguetteBox-button {
   background-color: transparent !important;
 }
+
+.contact-info .contact-name p a{
+  text-decoration: none;
+  color: #c1c1c1;
+}
