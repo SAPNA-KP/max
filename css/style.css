@@ -37,6 +37,27 @@ html {
 .white-theme .main-header {
   border-bottom: 1px solid rgba(41, 41, 41, 0.1);
 } */
+@media (max-width:599px){
+.home-section .home-intro h2 span {font-size:28px;}
+.home-image {
+margin-top:35px;
+}
+.border-top-g {
+    top: 25px;}
+
+.feature-box-02 {
+    margin: 17px 0;}
+.testimonial4_slide {width:90%;}
+.testimonial4_slide p {
+
+    font-size: 15px;}
+.contact-name {
+    margin-top: 20px;
+}
+.contact-info {
+    padding-top: 20px;
+}
+}
 .fixed-header .main-header {
   background: rgba(0, 0, 0, 0.8);
 }
@@ -120,6 +141,7 @@ html {
   .main-header .navbar-nav {
     /* padding-top: 15px; */
     padding: 15px 30px;
+    background:#000;
   }
   .navbar-brand {
     padding-left: 15px;
@@ -1703,7 +1725,6 @@ main {
   -webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
 }
 .testimonial4_slide p {
-  color: #ffffff;
   font-size: 20px;
   line-height: 1.4;
   margin: 40px 0 20px 0;
